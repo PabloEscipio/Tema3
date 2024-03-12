@@ -1,0 +1,17 @@
+        String usuario = "root";
+        String password = "Tarde2022";
+        String driver = "com.mysql.cj.jdbc.Driver";
+        String url = "jdbc:mysql://localhost:3306/alumnos";
+
+         String sql = "update profesor set salario=salario+200 where nombre =?";
+
+        Connection cn;
+        PreparedStatement ps;
+
+            // Cargar driver
+            Class.forName(driver);
+
+            // Establecer conexion
+            cn = DriverManager.getConnection(url,usuario,password);
+
+            // Cargar instrucción
