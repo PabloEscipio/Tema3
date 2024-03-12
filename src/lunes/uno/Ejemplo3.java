@@ -61,7 +61,7 @@ public class Ejemplo3 {
     public static ArrayList<String> deleteXcodigo(){
         File frCodigo;
         Scanner fsCodigo;
-        ArrayList<String> listCod = new ArrayList();
+        ArrayList<String> listCod = new ArrayList<>();
 
 
         try {
@@ -127,8 +127,6 @@ public class Ejemplo3 {
         // Variables
         byte uIndice;
 
-        int cod = 0;
-        int precio = 0;
         // Programa
         do {
             System.out.println("Introduce una opción");
