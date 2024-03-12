@@ -9,6 +9,7 @@ public class Libros {
     private int codAutor;
 
     // Constructor
+    /*
     public Libros(int codigo, String titulo, short paginas, float precio, int codAutor){
         setCodigo(codigo);
         setTitulo(titulo);
@@ -16,6 +17,7 @@ public class Libros {
         setPrecio(precio);
         setCodigo(codAutor);
     }
+    */
 
     public Libros(){
         this.codigo = -1;

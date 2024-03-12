@@ -68,7 +68,7 @@ public class Principal {
         return listLibros;
     }
 
-    public static void añadirRegistro(){
+    public static void addRegistro(){
         String sql;
         for (Libros valor : leerRegistro()){
             sql = "INSERT INTO libro VALUES(" + valor.toString() + ")";
@@ -90,7 +90,7 @@ public class Principal {
 
             switch (uIndice){
                 case 0 -> System.out.println("Cerrando el programa...");
-                case 1 -> añadirRegistro();
+                case 1 -> addRegistro();
                 case 2 -> System.out.println("test2");
                 case 3 -> System.out.println("test3");
                 default -> System.out.println("Indice no valido");
