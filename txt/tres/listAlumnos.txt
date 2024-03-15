@@ -1,0 +1,124 @@
+--- Juan ---
+Codigo: 1
+Edad: 20
+Asignatura: 2
+--- María ---
+Codigo: 2
+Edad: 22
+Asignatura: 4
+--- Pedro ---
+Codigo: 3
+Edad: 21
+Asignatura: 1
+--- Ana ---
+Codigo: 4
+Edad: 19
+Asignatura: 6
+--- Luis ---
+Codigo: 5
+Edad: 23
+Asignatura: 7
+--- Sofía ---
+Codigo: 6
+Edad: 20
+Asignatura: 8
+--- Carlos ---
+Codigo: 7
+Edad: 22
+Asignatura: 9
+--- Laura ---
+Codigo: 8
+Edad: 21
+Asignatura: 10
+--- Diego ---
+Codigo: 9
+Edad: 20
+Asignatura: 6
+--- Elena ---
+Codigo: 10
+Edad: 19
+Asignatura: 2
+--- Miguel ---
+Codigo: 11
+Edad: 22
+Asignatura: 8
+--- Lucía ---
+Codigo: 12
+Edad: 20
+Asignatura: 1
+--- Alejandro ---
+Codigo: 13
+Edad: 21
+Asignatura: 3
+--- Carmen ---
+Codigo: 14
+Edad: 22
+Asignatura: 4
+--- Javier ---
+Codigo: 15
+Edad: 19
+Asignatura: 5
+--- Isabel ---
+Codigo: 16
+Edad: 23
+Asignatura: 5
+--- Daniel ---
+Codigo: 17
+Edad: 20
+Asignatura: 7
+--- Paula ---
+Codigo: 18
+Edad: 21
+Asignatura: 1
+--- Pablo ---
+Codigo: 19
+Edad: 22
+Asignatura: 8
+--- Rocío ---
+Codigo: 20
+Edad: 20
+Asignatura: 3
+--- Adrián ---
+Codigo: 21
+Edad: 21
+Asignatura: 4
+--- Raquel ---
+Codigo: 22
+Edad: 19
+Asignatura: 6
+--- José ---
+Codigo: 23
+Edad: 23
+Asignatura: 9
+--- Clara ---
+Codigo: 24
+Edad: 20
+Asignatura: 8
+--- Fernando ---
+Codigo: 25
+Edad: 22
+Asignatura: 7
+--- Silvia ---
+Codigo: 26
+Edad: 21
+Asignatura: 3
+--- Alberto ---
+Codigo: 27
+Edad: 20
+Asignatura: 1
+--- Natalia ---
+Codigo: 28
+Edad: 19
+Asignatura: 2
+--- Gonzalo ---
+Codigo: 29
+Edad: 22
+Asignatura: 5
+--- Marina ---
+Codigo: 30
+Edad: 21
+Asignatura: 3
+--- Paul ---
+Codigo: 69
+Edad: 27
+Asignatura: 1
