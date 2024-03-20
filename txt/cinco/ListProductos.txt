@@ -1,0 +1,25 @@
+Codigo: 2	Nombre: Destornillador Phillips	Precio: 5.49
+Codigo: 3	Nombre: Cinta métrica de 5 metros	Precio: 8.75
+Codigo: 4	Nombre: PRUEBA	Precio: 420.0
+Codigo: 5	Nombre: Sierra circular	Precio: 129.99
+Codigo: 6	Nombre: Clavos de acero	Precio: 4.25
+Codigo: 7	Nombre: Tornillos para madera	Precio: 3.99
+Codigo: 8	Nombre: Pintura para exteriores	Precio: 24.99
+Codigo: 9	Nombre: Candado de seguridad	Precio: 12.49
+Codigo: 10	Nombre: Llave ajustable de 10 pulgadas	Precio: 9.99
+Codigo: 11	Nombre: Brocas para concreto	Precio: 18.5
+Codigo: 12	Nombre: Lijadora orbital	Precio: 39.99
+Codigo: 13	Nombre: Escalera de aluminio	Precio: 59.99
+Codigo: 14	Nombre: Pala de jardinería	Precio: 17.75
+Codigo: 15	Nombre: Tijeras de podar	Precio: 12.99
+Codigo: 16	Nombre: Candados de latón	Precio: 21.99
+Codigo: 17	Nombre: Brocha para pintura	Precio: 6.25
+Codigo: 18	Nombre: Lámpara de trabajo LED	Precio: 29.99
+Codigo: 19	Nombre: Destornillador de precisión	Precio: 12.99
+Codigo: 20	Nombre: Grifo de cocina	Precio: 49.99
+Codigo: 21	Nombre: Tubería de PVC	Precio: 7.99
+Codigo: 22	Nombre: Caja de herramientas	Precio: 34.99
+Codigo: 23	Nombre: Cerrojo de seguridad	Precio: 16.49
+Codigo: 24	Nombre: Pistola de silicona	Precio: 9.75
+Codigo: 25	Nombre: Rodillo de pintura	Precio: 5.99
+Codigo: 69	Nombre: lol	Precio: 11.0
