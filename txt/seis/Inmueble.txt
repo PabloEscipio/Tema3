@@ -1,0 +1,10 @@
+ID: 3	Cliente: 1	Dirección: Calle Valencia 789	Importe: 250000
+ID: 5	Cliente: 2	Dirección: Calle Zaragoza 1213	Importe: 220000
+ID: 1	Cliente: 3	Dirección: Calle Mayor 123	Importe: 200000
+ID: 6	Cliente: 4	Dirección: Calle Málaga 1415	Importe: 270000
+ID: 8	Cliente: 5	Dirección: Calle Palma de Mallorca 1819	Importe: 350000
+ID: 10	Cliente: 6	Dirección: Calle Bilbao 2223	Importe: 280000
+ID: 2	Cliente: 7	Dirección: Avenida Diagonal 456	Importe: 300000
+ID: 4	Cliente: 8	Dirección: Calle Sevilla 1011	Importe: 180000
+ID: 7	Cliente: 9	Dirección: Calle Murcia 1617	Importe: 320000
+ID: 9	Cliente: 20	Dirección: Calle Las Palmas 2021	Importe: 400000

@@ -1,0 +1,20 @@
+ID: 1	Nombre: Juan Pérez	CIF: 12345678A	Ciudad: Madrid
+ID: 2	Nombre: María García	CIF: 87654321B	Ciudad: Barcelona
+ID: 3	Nombre: Ana Martínez	CIF: 98765432C	Ciudad: Valencia
+ID: 4	Nombre: Pedro Sánchez	CIF: 23456789D	Ciudad: Sevilla
+ID: 5	Nombre: Laura Rodríguez	CIF: 54321678E	Ciudad: Zaragoza
+ID: 6	Nombre: Carlos López	CIF: 67891234F	Ciudad: Málaga
+ID: 7	Nombre: Sofía Fernández	CIF: 78912345G	Ciudad: Murcia
+ID: 8	Nombre: Diego González	CIF: 34567891H	Ciudad: Palma de Mallorca
+ID: 9	Nombre: Elena Gómez	CIF: 45678912I	Ciudad: Las Palmas de Gran Canaria
+ID: 10	Nombre: Javier Ruiz	CIF: 56789123J	Ciudad: Bilbao
+ID: 11	Nombre: Lucía Hernández	CIF: 67891234K	Ciudad: Alicante
+ID: 12	Nombre: Andrés Díaz	CIF: 78912345L	Ciudad: Córdoba
+ID: 13	Nombre: Sara Castro	CIF: 89123456M	Ciudad: Valladolid
+ID: 14	Nombre: Manuel Blanco	CIF: 91234567N	Ciudad: Vigo
+ID: 15	Nombre: Isabel Ramos	CIF: 12345987O	Ciudad: Gijón
+ID: 16	Nombre: Fernando Herrera	CIF: 23459876P	Ciudad: Granada
+ID: 17	Nombre: Carmen Jiménez	CIF: 34598765Q	Ciudad: Santa Cruz de Tenerife
+ID: 18	Nombre: Pablo Muñoz	CIF: 45987654R	Ciudad: Oviedo
+ID: 19	Nombre: Marta Torres	CIF: 59876543S	Ciudad: Santander
+ID: 20	Nombre: Antonio Vázquez	CIF: 98765432T	Ciudad: Pamplona
